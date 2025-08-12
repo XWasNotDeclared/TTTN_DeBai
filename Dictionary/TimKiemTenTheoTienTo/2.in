@@ -1,0 +1,9 @@
+8
+REGISTER 1 Alpha
+REGISTER 2 Beta
+FIND Gamma
+RENAME 999 NewName
+RENAME 1 Alpha
+REGISTER 1 Delta
+RENAME 2 Alpha
+FIND A
