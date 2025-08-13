@@ -1,0 +1,25 @@
+8
+Dog Ace 5 28
+Cat Belle 2 4
+Bird Charlie 1 1.2
+Dog Duke 4 35
+Cat Echo 6 9
+Bird Fox 3 2.5
+Dog Grace 2 20
+Cat Hope 4 7
+15
+SOUND Ace
+SPECIAL Belle
+STAT Dog
+SOUND Charlie
+FEED Duke 4
+SPECIAL Echo
+SOUND Fox
+STAT Cat
+FEED Grace 2.5
+SPECIAL Hope
+SOUND Duke
+STAT Bird
+FEED Belle 1
+SPECIAL Charlie
+SOUND Hope

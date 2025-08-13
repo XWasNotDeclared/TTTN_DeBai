@@ -1,0 +1,17 @@
+5
+Dog Alpha 6 30
+Cat Beta 4 8
+Bird Gamma 2 2
+Dog Delta 1 15
+Cat Epsilon 3 6
+10
+SOUND Alpha
+SPECIAL Beta
+STAT Dog
+FEED Gamma 0.3
+SOUND Gamma
+SPECIAL Delta
+STAT Cat
+FEED Alpha 5
+SPECIAL Gamma
+STAT Bird
