@@ -1,0 +1,12 @@
+5
+Sword 3 200
+Dagger 2 150
+Excalibur 5 500
+Shield 4 300
+Stick 1 -50
+5
+FIND Sword
+MAX_RARITY
+TOP 3
+FIND Bow
+TOP 2

@@ -1,0 +1,12 @@
+6
+Gem 5 100
+Stone 1 999999
+Amulet 3 500
+Charm 4 800
+Orb 5 100
+Potion 2 -10
+4
+TOP 3
+MAX_RARITY
+FIND Stone
+FIND Gem
