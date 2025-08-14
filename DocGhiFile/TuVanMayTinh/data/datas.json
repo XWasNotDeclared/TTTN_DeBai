@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "ten": "Dell Inspiron 15",
+    "cpu": "i5",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gia": 18500000
+  },
+  {
+    "id": 2,
+    "ten": "MacBook Air M2",
+    "cpu": "M2",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gia": 28500000
+  },
+  {
+    "id": 3,
+    "ten": "HP Pavilion",
+    "cpu": "i7",
+    "ram": "32GB",
+    "ssd": "1TB",
+    "gia": 32500000
+  },
+  {
+    "id": 4,
+    "ten": "ASUS VivoBook",
+    "cpu": "i3",
+    "ram": "4GB",
+    "ssd": "128GB",
+    "gia": 12000000
+  },
+  {
+    "id": 5,
+    "ten": "MacBook Pro M1",
+    "cpu": "M1",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gia": 35000000
+  },
+  {
+    "id": 6,
+    "ten": "Lenovo ThinkPad",
+    "cpu": "i7",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gia": 25000000
+  },
+  {
+    "id": 7,
+    "ten": "HP EliteBook",
+    "cpu": "i5",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gia": 22000000
+  },
+  {
+    "id": 8,
+    "ten": "Gaming Laptop",
+    "cpu": "i9",
+    "ram": "32GB",
+    "ssd": "1TB",
+    "gia": 45000000
+  },
+  {
+    "id": 9,
+    "ten": "MacBook Air M1",
+    "cpu": "M1",
+    "ram": "8GB",
+    "ssd": "256GB",
+    "gia": 24000000
+  },
+  {
+    "id": 10,
+    "ten": "Dell XPS 13",
+    "cpu": "i5",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "gia": 28000000
+  }
+]
