@@ -63,9 +63,20 @@ def solve(data_json, input_data):
     results = []
     rectangles = data_json["rectangles"]
     
-    for line in input_data:
-        line = line.strip()
+    # Dòng đầu tiên là số lượng test case
+    if not input_data:
+        return results
+        
+    try:
+        n = int(input_data[0].strip())
+    except:
+        return results
+    
+    # Xử lý từng test case
+    for i in range(1, min(n + 1, len(input_data))):
+        line = input_data[i].strip()
         if not line:
+            results.append("NO INTERSECTION")
             continue
             
         try:

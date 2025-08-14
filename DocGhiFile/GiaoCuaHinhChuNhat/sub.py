@@ -54,27 +54,31 @@ def main():
         data = load_json("./data/datas.json")
         rectangles = data["rectangles"]
         
-        # Đọc input từ bàn phím
-        line = input().strip()
-        id1, id2 = map(int, line.split())
+        # Đọc số lượng test case
+        n = int(input().strip())
         
-        # Tìm hai hình chữ nhật theo id
-        rect1 = find_rectangle_by_id(rectangles, id1)
-        rect2 = find_rectangle_by_id(rectangles, id2)
-        
-        if rect1 is None or rect2 is None:
-            print("NO INTERSECTION")
-            return
-        
-        # Tính giao của hai hình chữ nhật
-        intersection = calculate_intersection(rect1, rect2)
-        
-        if intersection is None:
-            print("NO INTERSECTION")
-        else:
-            x, y, width, height = intersection
-            print(f"{x} {y} {width} {height}")
+        # Xử lý từng test case
+        for _ in range(n):
+            line = input().strip()
+            id1, id2 = map(int, line.split())
             
+            # Tìm hai hình chữ nhật theo id
+            rect1 = find_rectangle_by_id(rectangles, id1)
+            rect2 = find_rectangle_by_id(rectangles, id2)
+            
+            if rect1 is None or rect2 is None:
+                print("NO INTERSECTION")
+                continue
+            
+            # Tính giao của hai hình chữ nhật
+            intersection = calculate_intersection(rect1, rect2)
+            
+            if intersection is None:
+                print("NO INTERSECTION")
+            else:
+                x, y, width, height = intersection
+                print(f"{x} {y} {width} {height}")
+                
     except Exception as e:
         print("NO INTERSECTION")
 
