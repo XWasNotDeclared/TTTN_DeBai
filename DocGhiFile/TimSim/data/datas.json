@@ -1,0 +1,26 @@
+{
+  "sim": [
+    {"number": "0987654321", "network": "Viettel", "active": true, "type": "1"},
+    {"number": "0912345678", "network": "Vinaphone", "active": true, "type": "2"},
+    {"number": "0165432123", "network": "Viettel", "active": false, "type": "3"},
+    {"number": "0978654321", "network": "Vinaphone", "active": true, "type": "1"},
+    {"number": "0901234567", "network": "Viettel", "active": true, "type": "4"},
+    {"number": "0876543210", "network": "Vinaphone", "active": false, "type": "2"},
+    {"number": "0987123456", "network": "Viettel", "active": true, "type": "5"},
+    {"number": "0912987654", "network": "Vinaphone", "active": true, "type": "3"},
+    {"number": "0789654123", "network": "Viettel", "active": false, "type": "1"},
+    {"number": "0934567890", "network": "Vinaphone", "active": true, "type": "4"},
+    {"number": "0987654678", "network": "Viettel", "active": true, "type": "2"},
+    {"number": "0912345321", "network": "Vinaphone", "active": false, "type": "5"},
+    {"number": "0165987654", "network": "Viettel", "active": true, "type": "1"},
+    {"number": "0978123456", "network": "Vinaphone", "active": true, "type": "3"},
+    {"number": "0901567890", "network": "Viettel", "active": false, "type": "2"}
+  ],
+  "price": [
+    {"type": "1", "price": 500000},
+    {"type": "2", "price": 200000},
+    {"type": "3", "price": 300000},
+    {"type": "4", "price": 150000},
+    {"type": "5", "price": 800000}
+  ]
+}
