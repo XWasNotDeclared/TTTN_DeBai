@@ -1,0 +1,19 @@
+{
+    "coffee_shop": {
+        "name": "Highlands Coffee",
+        "location": "Ho Chi Minh City",
+        "menu": [
+            { "item": "Ca phe den", "price": 20000 },
+            { "item": "Ca phe sua", "price": 25000 },
+            { "item": "Ca phe sua da", "price": 28000 },
+            { "item": "Tra dao", "price": 30000 },
+            { "item": "Tra sua tran chau", "price": 35000 },
+            { "item": "Sinh to bo", "price": 40000 },
+            { "item": "Nuoc cam ep", "price": 32000 },
+            { "item": "Banh mi", "price": 15000 },
+            { "item": "Banh croissant", "price": 18000 },
+            { "item": "Banh cookies", "price": 12000 }
+        ],
+        "open": true
+    }
+}
