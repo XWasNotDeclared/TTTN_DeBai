@@ -1,0 +1,21 @@
+{
+  "products": [
+    { "id": "P001", "name": "Sua tuoi Vinamilk 1L", "price": 25000 },
+    { "id": "P002", "name": "Banh mi sandwich", "price": 15000 },
+    { "id": "P003", "name": "Trung ga 10 qua", "price": 30000 },
+    { "id": "P004", "name": "Nuoc ngot Coca-Cola 330ml", "price": 12000 },
+    { "id": "P005", "name": "Gao ST25 5kg", "price": 180000 },
+    { "id": "P006", "name": "Bia Saigon 330ml", "price": 18000 },
+    { "id": "P007", "name": "Khoai tay chien dong lanh", "price": 45000 },
+    { "id": "P008", "name": "Xuc xich German", "price": 85000 },
+    { "id": "P009", "name": "Pho mai slice", "price": 55000 },
+    { "id": "P010", "name": "Nuoc suoi Lavie 500ml", "price": 8000 }
+  ],
+  "promotions": [
+    { "product_id": "P001", "name": "Giam gia mua hang tet", "discount": 10 },
+    { "product_id": "P003", "name": "Khuyen mai trung", "discount": 5 },
+    { "product_id": "P005", "name": "Khuyen mai gao", "discount": 15 },
+    { "product_id": "P008", "name": "Giam gia xuc xich", "discount": 8 },
+    { "product_id": "P009", "name": "Sale pho mai", "discount": 12 }
+  ]
+}
