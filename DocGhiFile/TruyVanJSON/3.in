@@ -1,0 +1,12 @@
+GET settings/limits/maxUsers
+GET settings/limits/maxFiles
+GET settings/limits/timeout
+GET settings/limits
+GET files/media/video1
+GET files/media/audio1
+GET user/1/active
+GET user/2/name
+GET config/database/name
+GET stats
+GET files/images/thumb2
+GET settings/features/notifications

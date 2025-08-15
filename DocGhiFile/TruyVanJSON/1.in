@@ -1,0 +1,6 @@
+GET user/1/name
+GET user/1
+GET files/images/img1
+GET settings/features
+GET settings/language
+GET unknown/path

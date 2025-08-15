@@ -1,0 +1,8 @@
+GET user/999/name
+GET settings/nonexistent
+GET files/images/img999
+GET user/1/nonexistent
+GET config/database/password
+GET settings/features/unknown
+GET files/media
+GET user/2/email

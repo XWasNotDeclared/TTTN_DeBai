@@ -1,0 +1,72 @@
+{
+  "user": {
+    "1": {
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 25,
+      "active": true
+    },
+    "2": {
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": 30,
+      "active": false
+    },
+    "3": {
+      "name": "Charlie",
+      "email": "charlie@test.com",
+      "age": 22,
+      "active": true
+    }
+  },
+  "files": {
+    "images": {
+      "img1": "image1.png",
+      "img2": "image2.jpg",
+      "thumb1": "thumb1.png",
+      "thumb2": "thumb2.jpg"
+    },
+    "docs": {
+      "doc1": "document1.txt",
+      "doc2": "manual.pdf",
+      "doc3": "readme.md"
+    },
+    "media": {
+      "video1": "movie.mp4",
+      "audio1": "song.mp3"
+    }
+  },
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "timezone": "UTC",
+    "debug": false,
+    "features": {
+      "beta": true,
+      "experimental": false,
+      "notifications": true
+    },
+    "limits": {
+      "maxUsers": 100,
+      "maxFiles": 1000,
+      "timeout": 30
+    }
+  },
+  "config": {
+    "database": {
+      "host": "localhost",
+      "port": 5432,
+      "name": "mydb"
+    },
+    "api": {
+      "version": "v1",
+      "rate_limit": 1000
+    }
+  },
+  "stats": {
+    "totalUsers": 150,
+    "activeUsers": 89,
+    "totalFiles": 2500,
+    "diskUsage": 75.5
+  }
+}
