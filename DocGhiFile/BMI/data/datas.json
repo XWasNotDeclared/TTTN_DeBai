@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "John Smith", "weight_kg": 70, "height_m": 1.75 },
+  { "id": 2, "name": "Emily Davis", "weight_kg": 58, "height_m": 1.62 },
+  { "id": 3, "name": "Michael Brown", "weight_kg": 85, "height_m": 1.80 },
+  { "id": 4, "name": "Sarah Wilson", "weight_kg": 45, "height_m": 1.65 },
+  { "id": 6, "name": "David Johnson", "weight_kg": 95, "height_m": 1.78 },
+  { "id": 7, "name": "Lisa Anderson", "weight_kg": 62, "height_m": 1.70 },
+  { "id": 8, "name": "Robert Taylor", "weight_kg": 110, "height_m": 1.85 },
+  { "id": 9, "name": "Jennifer Martinez", "weight_kg": 55, "height_m": 1.60 },
+  { "id": 10, "name": "William Garcia", "weight_kg": 78, "height_m": 1.72 }
+]
