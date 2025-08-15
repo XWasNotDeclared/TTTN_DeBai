@@ -1,8 +1,8 @@
 # TTTN_DeBai
 
-Chào mừng đến với **TTTN_DeBai** – kho lưu trữ tổng hợp các đề bài dạng **ICPC**, bao gồm **bộ test**, **submit mẫu**, dữ liệu (**input/output files**) và nhiều tài nguyên hữu ích khác.
+Chào mừng đến với **TTTN_DeBai**
 
-> ⚠️ Trong quá trình làm đề bài, khó tránh khỏi các lỗi sai sót hoặc những chỗ gây hiểu nhầm trong đề. Nếu có phát hiện vấn đề nào, vui lòng tạo một **Issue** mới. Mình sẽ cố gắng sửa chữa và cập nhật sớm nhất có thể. Xin cảm ơn!
+> ⚠️ Trong quá trình làm đề bài, khó tránh khỏi các lỗi sai sót hoặc những chỗ gây hiểu nhầm trong đề. Nếu có phát hiện vấn đề nào, vui lòng tạo một **Issue** mới. Em sẽ cố gắng sửa chữa và cập nhật sớm nhất có thể. Xin cảm ơn!
 
 **Thông tin cá nhân**:  
 - Tên: Phạm Mạnh Hùng  
