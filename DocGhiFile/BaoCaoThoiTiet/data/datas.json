@@ -1,0 +1,72 @@
+[
+  {
+    "city": "Ha Noi",
+    "temperature_celsius": 28,
+    "humidity_percent": 75,
+    "wind_kmh": 12,
+    "condition": "Nhieu may"
+  },
+  {
+    "city": "TP. Ho Chi Minh",
+    "temperature_celsius": 32,
+    "humidity_percent": 65,
+    "wind_kmh": 8,
+    "condition": "Nang nhe"
+  },
+  {
+    "city": "Da Nang",
+    "temperature_celsius": 30,
+    "humidity_percent": 80,
+    "wind_kmh": 20,
+    "condition": "Mua"
+  },
+  {
+    "city": "Hai Phong",
+    "temperature_celsius": 26,
+    "humidity_percent": 85,
+    "wind_kmh": 25,
+    "condition": "Bao"
+  },
+  {
+    "city": "Can Tho",
+    "temperature_celsius": 31,
+    "humidity_percent": 70,
+    "wind_kmh": 5,
+    "condition": "Nang"
+  },
+  {
+    "city": "Hue",
+    "temperature_celsius": 29,
+    "humidity_percent": 60,
+    "wind_kmh": 15,
+    "condition": "Nhieu may"
+  },
+  {
+    "city": "Vung Tau",
+    "temperature_celsius": 33,
+    "humidity_percent": 68,
+    "wind_kmh": 18,
+    "condition": "Nang"
+  },
+  {
+    "city": "Nha Trang",
+    "temperature_celsius": 27,
+    "humidity_percent": 78,
+    "wind_kmh": 22,
+    "condition": "Mua nho"
+  },
+  {
+    "city": "Quy Nhon",
+    "temperature_celsius": 25,
+    "humidity_percent": 55,
+    "wind_kmh": 30,
+    "condition": "Bao"
+  },
+  {
+    "city": "Bien Hoa",
+    "temperature_celsius": 34,
+    "humidity_percent": 63,
+    "wind_kmh": 6,
+    "condition": "Nang gat"
+  }
+]
