@@ -1,0 +1,12 @@
+[
+  { "id": 1, "product": "Tu lanh 300L", "price": 8500000 },
+  { "id": 2, "product": "Bo ban ghe go soi 6 mon", "price": 12000000 },
+  { "id": 3, "product": "Dien thoai thong minh", "price": 6500000 },
+  { "id": 4, "product": "Xe tay ga", "price": 39000000 },
+  { "id": 5, "product": "May tinh xach tay", "price": 15000000 },
+  { "id": 6, "product": "May giat 9kg", "price": 7800000 },
+  { "id": 7, "product": "Dieu hoa 2 chieu 18000BTU", "price": 11500000 },
+  { "id": 8, "product": "Sofa da that 3 cho ngoi", "price": 25000000 },
+  { "id": 9, "product": "TV LED 55 inch", "price": 13200000 },
+  { "id": 10, "product": "May loc nuoc RO", "price": 4500000 }
+]
