@@ -1,0 +1,9 @@
+{
+  "pokemon": [
+    { "id": 1, "species_id": 25, "name": "Pikachu", "type": ["Electric"], "level": 12, "hp": 35, "atk": 55, "def": 40, "spd": 90 },
+    { "id": 2, "species_id": 1, "name": "Bulbasaur", "type": ["Grass", "Poison"], "level": 10, "hp": 45, "atk": 49, "def": 49, "spd": 45 },
+    { "id": 3, "species_id": 4, "name": "Charmander", "type": ["Fire"], "level": 8, "hp": 39, "atk": 52, "def": 43, "spd": 65 },
+    { "id": 4, "species_id": 7, "name": "Squirtle", "type": ["Water"], "level": 9, "hp": 44, "atk": 48, "def": 65, "spd": 43 },
+    { "id": 5, "species_id": 39, "name": "Jigglypuff", "type": ["Normal", "Fairy"], "level": 15, "hp": 115, "atk": 45, "def": 20, "spd": 20 }
+  ]
+}
