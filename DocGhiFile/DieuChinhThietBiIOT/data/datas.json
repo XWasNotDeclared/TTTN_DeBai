@@ -1,0 +1,52 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "nhiet_do": 24.5,
+      "do_am": 60,
+      "anh_sang": 300
+    },
+    {
+      "id": 2,
+      "nhiet_do": 25.0,
+      "do_am": 55,
+      "anh_sang": 280
+    },
+    {
+      "id": 3,
+      "nhiet_do": 23.8,
+      "do_am": 65,
+      "anh_sang": 320
+    },
+    {
+      "id": 4,
+      "nhiet_do": 26.2,
+      "do_am": 50,
+      "anh_sang": 250
+    },
+    {
+      "id": 5,
+      "nhiet_do": 22.9,
+      "do_am": 70,
+      "anh_sang": 380
+    },
+    {
+      "id": 6,
+      "nhiet_do": 27.1,
+      "do_am": 45,
+      "anh_sang": 220
+    },
+    {
+      "id": 7,
+      "nhiet_do": 24.0,
+      "do_am": 58,
+      "anh_sang": 310
+    },
+    {
+      "id": 8,
+      "nhiet_do": 25.5,
+      "do_am": 52,
+      "anh_sang": 290
+    }
+  ]
+}
