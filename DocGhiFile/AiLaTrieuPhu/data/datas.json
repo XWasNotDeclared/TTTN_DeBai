@@ -1,0 +1,121 @@
+{
+  "quiz_sets": [
+    {
+      "id": 1,
+      "questions": [
+        { "id": 1, "correct": "A" },
+        { "id": 2, "correct": "C" },
+        { "id": 3, "correct": "B" },
+        { "id": 4, "correct": "D" },
+        { "id": 5, "correct": "B" },
+        { "id": 6, "correct": "A" },
+        { "id": 7, "correct": "C" },
+        { "id": 8, "correct": "B" },
+        { "id": 9, "correct": "D" },
+        { "id": 10, "correct": "A" },
+        { "id": 11, "correct": "C" },
+        { "id": 12, "correct": "B" },
+        { "id": 13, "correct": "D" },
+        { "id": 14, "correct": "A" },
+        { "id": 15, "correct": "C" }
+      ]
+    },
+    {
+      "id": 2,
+      "questions": [
+        { "id": 1, "correct": "B" },
+        { "id": 2, "correct": "D" },
+        { "id": 3, "correct": "A" },
+        { "id": 4, "correct": "C" },
+        { "id": 5, "correct": "B" },
+        { "id": 6, "correct": "D" },
+        { "id": 7, "correct": "A" },
+        { "id": 8, "correct": "C" },
+        { "id": 9, "correct": "B" },
+        { "id": 10, "correct": "A" },
+        { "id": 11, "correct": "C" },
+        { "id": 12, "correct": "D" },
+        { "id": 13, "correct": "B" },
+        { "id": 14, "correct": "A" },
+        { "id": 15, "correct": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "questions": [
+        { "id": 1, "correct": "C" },
+        { "id": 2, "correct": "A" },
+        { "id": 3, "correct": "D" },
+        { "id": 4, "correct": "B" },
+        { "id": 5, "correct": "A" },
+        { "id": 6, "correct": "C" },
+        { "id": 7, "correct": "B" },
+        { "id": 8, "correct": "D" },
+        { "id": 9, "correct": "A" },
+        { "id": 10, "correct": "C" },
+        { "id": 11, "correct": "B" },
+        { "id": 12, "correct": "A" },
+        { "id": 13, "correct": "D" },
+        { "id": 14, "correct": "C" },
+        { "id": 15, "correct": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "questions": [
+        { "id": 1, "correct": "D" },
+        { "id": 2, "correct": "B" },
+        { "id": 3, "correct": "C" },
+        { "id": 4, "correct": "A" },
+        { "id": 5, "correct": "D" },
+        { "id": 6, "correct": "B" },
+        { "id": 7, "correct": "C" },
+        { "id": 8, "correct": "A" },
+        { "id": 9, "correct": "D" },
+        { "id": 10, "correct": "B" },
+        { "id": 11, "correct": "A" },
+        { "id": 12, "correct": "C" },
+        { "id": 13, "correct": "D" },
+        { "id": 14, "correct": "B" },
+        { "id": 15, "correct": "A" }
+      ]
+    },
+    {
+      "id": 5,
+      "questions": [
+        { "id": 1, "correct": "A" },
+        { "id": 2, "correct": "A" },
+        { "id": 3, "correct": "A" },
+        { "id": 4, "correct": "A" },
+        { "id": 5, "correct": "A" },
+        { "id": 6, "correct": "B" },
+        { "id": 7, "correct": "B" },
+        { "id": 8, "correct": "B" },
+        { "id": 9, "correct": "B" },
+        { "id": 10, "correct": "B" },
+        { "id": 11, "correct": "C" },
+        { "id": 12, "correct": "C" },
+        { "id": 13, "correct": "C" },
+        { "id": 14, "correct": "C" },
+        { "id": 15, "correct": "C" }
+      ]
+    }
+  ],
+  "prizes": [
+    { "question_id": 1, "amount": 200000 },
+    { "question_id": 2, "amount": 400000 },
+    { "question_id": 3, "amount": 600000 },
+    { "question_id": 4, "amount": 1000000 },
+    { "question_id": 5, "amount": 2000000 },
+    { "question_id": 6, "amount": 3000000 },
+    { "question_id": 7, "amount": 6000000 },
+    { "question_id": 8, "amount": 10000000 },
+    { "question_id": 9, "amount": 14000000 },
+    { "question_id": 10, "amount": 22000000 },
+    { "question_id": 11, "amount": 30000000 },
+    { "question_id": 12, "amount": 40000000 },
+    { "question_id": 13, "amount": 60000000 },
+    { "question_id": 14, "amount": 85000000 },
+    { "question_id": 15, "amount": 150000000 }
+  ]
+}
