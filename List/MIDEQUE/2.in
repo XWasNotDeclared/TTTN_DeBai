@@ -1,0 +1,6 @@
+5
+pop
+push_back 10
+pop
+pop
+size
