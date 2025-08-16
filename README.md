@@ -5,8 +5,7 @@ Chào mừng đến với **TTTN_DeBai**
 > ⚠️ Trong quá trình làm đề bài, khó tránh khỏi các lỗi sai sót hoặc những chỗ gây hiểu nhầm trong đề. Nếu có phát hiện vấn đề nào, vui lòng tạo một **Issue** mới. Em sẽ cố gắng sửa chữa và cập nhật sớm nhất có thể. Xin cảm ơn!
 
 **Thông tin cá nhân**:  
-- Tên: Phạm Mạnh Hùng  
-- Mã sinh viên: B21DCCN058  
+- Tên: Phạm Mạnh Hùng
 
 Kho này được tạo ra nhằm mục đích **học tập, tham khảo và luyện tập** các bài tập thuật toán
 ---
