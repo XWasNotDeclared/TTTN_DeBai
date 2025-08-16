@@ -12,11 +12,11 @@ Kho này được tạo ra nhằm mục đích **học tập, tham khảo và lu
 ---
 
 ## Nội dung chính
-- Đề bài về từ điển: 20/20 bài
-- Đề bài về đọc ghi file: 15/15 bài
-- Đề bài về hàm và lớp: 15/15 bài
-- Đề bài về kiểu dữ liệu và biến: 10/10 bài
-- Đề bài về list: 10/10 bài
+- Đề bài về từ điển: 20/20 bài ✅
+- Đề bài về đọc ghi file: 15/15 bài ✅
+- Đề bài về hàm và lớp: 15/15 bài ✅
+- Đề bài về kiểu dữ liệu và biến: 10/10 bài ✅
+- Đề bài về list: 10/10 bài ✅
 ---
 
 Mọi góp ý, thắc mắc hoặc báo lỗi đều rất được hoan nghênh!
