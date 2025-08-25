@@ -1,22 +1,17 @@
 def solve(data):
-    """
-    Hàm giải bài toán chính.
-    - data: danh sách chứa số test case và các tên
-    - Trả về: list chứa các tên đã được đổi thứ tự
-    """
-    t = data[0]  # số test case
+    t = data[0]  # so test case
     result = []
     
     for i in range(1, t + 1):
-        name = data[i]  # lấy tên thứ i
-        words = name.split()  # tách thành các từ
+        name = data[i]  # lay ten thu i
+        words = name.split()  # tach thanh cac tu
         
-        # Lấy các phần của tên
-        ho = words[0]  # họ (từ đầu tiên)
-        ten_chinh = words[-1]  # tên chính (từ cuối cùng)
-        ten_dem = words[1:-1]  # các tên đệm (từ thứ 2 đến thứ n-1)
+        # Lay cac phan cua ten
+        ho = words[0]  # Ho (tu dau tien)
+        ten_chinh = words[-1]  # ten chinh (tu cuoi cung)
+        ten_dem = words[1:-1]  # cac ten dem (tu thu 2 den thu n-1)
         
-        # Tạo tên mới: Tên_chính + Họ + các Tên_đệm
+        # tao ten moi
         new_name_parts = [ten_chinh, ho] + ten_dem
         new_name = " ".join(new_name_parts)
         
@@ -26,13 +21,12 @@ def solve(data):
 
 def main():
     data = []
-    t = int(input().strip())  # số test case
+    t = int(input().strip())  # so test case
     data.append(t)
     
     for _ in range(t):
-        name = input().strip()  # đọc từng tên
+        name = input().strip()  # doc ten
         data.append(name)
-    
     res = solve(data)
     print("\n".join(map(str, res)))
 
